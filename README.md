@@ -8,7 +8,6 @@ This software allows you to export ATG reports to markdown files.
 - In-Tank Delivery Report *(unsupported)*
 - In-Tank Alarm History Report *(unsupported)*
 - Service History Report *(unsupported)*
-- 
 <br>
 
 ## Build / Run
